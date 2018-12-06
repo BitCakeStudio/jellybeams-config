@@ -1,0 +1,11 @@
+{
+  "initialMonsters": 5,
+  "enemyIncreasePerWave": 2,
+  "initialWaveEnemiesOnScreen": 4,
+  "waveEnemiesOnScreenIncreasePerWave": 0.2,
+  "tier1Weigth": 1.0,
+  "tier2Weigth": 0.8,
+  "tier3Weigth": 0.6,
+  "tier4Weigth": 0.3,
+  "tier5Weigth": 0.1
+}
