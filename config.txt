@@ -34,7 +34,7 @@
 },{
     "wave": 5,
     "totalMonsters": 15,
-    "maxEnemiesOnScreen": 7,
+    "maxEnemiesOnScreen": 5,
     "tier2enemies": 8,
     "tier3enemies": 4,
     "tier4enemies": 0,
@@ -74,7 +74,7 @@
 },{
     "wave": 10,
     "totalMonsters": 25,
-    "maxEnemiesOnScreen": 8,
+    "maxEnemiesOnScreen": 6,
     "tier2enemies": 10,
     "tier3enemies": 8,
     "tier4enemies": 6,
@@ -106,7 +106,7 @@
 },{
     "wave": 14,
     "totalMonsters": 33,
-    "maxEnemiesOnScreen": 6,
+    "maxEnemiesOnScreen": 5,
     "tier2enemies": 12,
     "tier3enemies": 8,
     "tier4enemies": 7,
@@ -114,7 +114,7 @@
 },{
     "wave": 15,
     "totalMonsters": 35,
-    "maxEnemiesOnScreen": 9,
+    "maxEnemiesOnScreen": 7,
     "tier2enemies": 12,
     "tier3enemies": 10,
     "tier4enemies": 8,
@@ -122,7 +122,7 @@
 },{
     "wave": 16,
     "totalMonsters": 37,
-    "maxEnemiesOnScreen": 7,
+    "maxEnemiesOnScreen": 6,
     "tier2enemies": 11,
     "tier3enemies": 10,
     "tier4enemies": 9,
@@ -130,7 +130,7 @@
 },{
     "wave": 17,
     "totalMonsters": 39,
-    "maxEnemiesOnScreen": 8,
+    "maxEnemiesOnScreen": 7,
     "tier2enemies": 9,
     "tier3enemies": 13,
     "tier4enemies": 10,
@@ -146,7 +146,7 @@
 },{
     "wave": 19,
     "totalMonsters": 43,
-    "maxEnemiesOnScreen": 7,
+    "maxEnemiesOnScreen": 6,
     "tier2enemies": 8,
     "tier3enemies": 15,
     "tier4enemies": 13,
@@ -154,7 +154,7 @@
 },{
     "wave": 20,
     "totalMonsters": 45,
-    "maxEnemiesOnScreen": 10,
+    "maxEnemiesOnScreen": 8,
     "tier2enemies": 7,
     "tier3enemies": 12,
     "tier4enemies": 17,
