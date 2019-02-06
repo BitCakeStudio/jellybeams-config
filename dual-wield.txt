@@ -1,12 +1,12 @@
 {"waves":
 [{
     "wave": 1,
-    "totalMonsters": 99,
+    "totalMonsters": 7,
     "maxEnemiesOnScreen": 4,
     "tier2enemies": 0,
     "tier3enemies": 0,
     "tier4enemies": 0,
-    "tier5enemies": 95
+    "tier5enemies": 0
 },{
     "wave": 2,
     "totalMonsters": 9,
